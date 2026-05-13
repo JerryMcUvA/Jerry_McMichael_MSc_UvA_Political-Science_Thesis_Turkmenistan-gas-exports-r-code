@@ -24,7 +24,7 @@ tkm_gas_all <- ct_get_data(
   commodity_classification = "HS",
   commodity_code = "271121"
 )
-Sys.setenv(COMTRADE_PRIMARY = "f3845d2a81db4c43bc4c01eed3c4c7d8")
+Sys.setenv(COMTRADE_PRIMARY = "COMTRADE_PRIMARY_KEY")
 
 kaz_gas_all <- ct_get_data(
   reporter = "KAZ",
