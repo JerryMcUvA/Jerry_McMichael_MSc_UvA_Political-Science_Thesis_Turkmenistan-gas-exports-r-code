@@ -2,7 +2,7 @@ library(tidyverse)
 library(comtradr)
 library(scales)
 
-Sys.setenv(COMTRADE_PRIMARY = "f3845d2a81db4c43bc4c01eed3c4c7d8")
+Sys.setenv(COMTRADE_PRIMARY = "COMTRADE_PRIMARY_KEY")
 
 
 Sys.getenv("COMTRADE_PRIMARY")
