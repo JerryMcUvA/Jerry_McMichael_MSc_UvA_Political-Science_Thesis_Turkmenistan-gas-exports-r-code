@@ -8,7 +8,7 @@ library(ggplot2)
 library(flextable)
 library(officer)
 
-set_primary_comtrade_key("f3845d2a81db4c43bc4c01eed3c4c7d8")
+set_primary_comtrade_key("COMTRADE_PRIMARY_KEY")
 
 tkm_gas_271121_raw <- ct_get_data(
   type = "goods",
