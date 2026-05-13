@@ -26,7 +26,7 @@ library(stringr)
 library(tidyr)
 
 
-Sys.setenv(EIA_API_KEY = "2ezMeIypYwxWcHujS1CzGXmSCew0N4mXBRTXsr1R")
+Sys.setenv(EIA_API_KEY = "EIA_PRIMARY_KEY")
 
 eia_key <- Sys.getenv("EIA_API_KEY")
 
