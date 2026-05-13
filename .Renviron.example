@@ -1,1 +1,2 @@
 COMTRADE_PRIMARY_KEY="paste_your_own_key_here"
+Sys.setenv(EIA_API_KEY = "EIA_PRIMARY_KEY")
