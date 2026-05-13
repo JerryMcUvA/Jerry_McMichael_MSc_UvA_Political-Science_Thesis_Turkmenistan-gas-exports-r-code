@@ -1,2 +1,2 @@
-# Jerry_McMIchael_MSc_UvA_Political-Science_Thesis_Turkmenistan-gas-exports-r-code
+# Jerry_McMichael_MSc_UvA_Political-Science_Thesis_Turkmenistan-gas-exports-r-code
 The repository contains the R code used for the empirical analysis in my MSc Political Science Thesis on China–Turkmenistan gas trade and export concentration. Source: UN Comtrade mirror-import data, HS 271121/2711, accessed via UN Comtrade. To reproduce the analysis, run the scripts in numerical order from the /code folder.
